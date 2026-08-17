@@ -1,0 +1,51 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* #landpage-h1{
+    font-size: 4rem;
+    font-weight: 200;
+    text-shadow: .2rem .2rem;
+    text-align: center; 
+    color: rgb(56, 55, 55);
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+li {
+    padding:0.5rem 1rem;
+}
+form{
+    display: flex;
+    gap: 1rem;
+    margin: 2rem;
+}
+form>input{
+    font-size: 2rem;
+}
+div P {
+    color: red;
+}
+a:hover{
+    color: red;
+} */
+body{
+    margin: 2rem;
+}
+h1{
+    padding: 2rem;
+    border: 20px solid black;
+    width: 50rem;
+    border-style: dashed;
+    margin: 2rem;
+}
+p{
+    font-size: 2rem;
+}
+.p-tags{
+    display: flex;
+    gap: 1rem;
+    justify-content: ;
+}
